@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>270802576869-4advima4n6vr109v26pmgkp2i5nf0rgk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.270802576869-4advima4n6vr109v26pmgkp2i5nf0rgk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDUeU0tbmi8QLaNGngpl8JxV2R3TjBQvcc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>270802576869</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dev.toddnelson.themoviebook</string>
+	<key>PROJECT_ID</key>
+	<string>the-movie-book</string>
+	<key>STORAGE_BUCKET</key>
+	<string>the-movie-book.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:270802576869:ios:107bec52e3bfc12fdf7b0c</string>
+</dict>
+</plist>

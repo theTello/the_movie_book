@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "270802576869",
+    "project_id": "the-movie-book",
+    "storage_bucket": "the-movie-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270802576869:android:4c6c61729a1527c5df7b0c",
+        "android_client_info": {
+          "package_name": "dev.toddnelson.themoviebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270802576869-ugboeogsg92h3uc37vom9nise8upd9f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDJ-tkHXdCYB8gHckS36niNgiMImIrofQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270802576869-ugboeogsg92h3uc37vom9nise8upd9f6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270802576869-4advima4n6vr109v26pmgkp2i5nf0rgk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.toddnelson.themoviebook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
